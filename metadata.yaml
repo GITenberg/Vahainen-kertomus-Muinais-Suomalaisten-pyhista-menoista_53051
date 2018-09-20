@@ -1,5 +1,8 @@
 _repo: Vahainen-kertomus-Muinais-Suomalaisten-pyhista-menoista_53051
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Salmelainen, Eero
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '39362'
     url: http://www.gutenberg.org/2009/agents/39362
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53051#Vahainen-kertomus-Muinais-Suomalaisten-pyhista-menoista
 gutenberg_issued: '2016-09-14'
 gutenberg_type: Text
 identifiers:
