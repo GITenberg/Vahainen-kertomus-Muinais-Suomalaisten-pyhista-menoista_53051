@@ -1,0 +1,25 @@
+_repo: Vahainen-kertomus-Muinais-Suomalaisten-pyhista-menoista_53051
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salmelainen, Eero
+    alias: Rudbeck, Erik
+    birthdate: 1830
+    deathdate: 1867
+    gutenberg_agent_id: '39362'
+    url: http://www.gutenberg.org/2009/agents/39362
+description: ''
+gutenberg_issued: '2016-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53051'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finland -- Religion'
+- !lcc 'BL'
+- GITenberg
+title: Vähäinen kertomus Muinais-Suomalaisten pyhistä menoista
+url: http://www.gutenberg.org/ebooks/53051
